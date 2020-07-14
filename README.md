@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 Actualmente estoy Trabajando como Arquitecto Empresarial de Software.
+- 🌱 Actualmente estoy Profundizando en Arquitecturas Cloud, Altamente Resilientes.
+- 👯 Estoy Buscando Colaborar en Proyectos OpenSource.
+- 💬 Me pueden preguntar por AWS, GCP, Java Spring Boot, Node.js, Docker, Microservicios, entre otros 😄.
+- 📫 Me pueden encontrar en mi Blog NikoRz.Dev o por Twitter.
 <!--
 **NikoRozo/NikoRozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
