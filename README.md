@@ -1,4 +1,4 @@
-![banner](Banner.png)
+![banner](https://github.com/NikoRozo/NikoRozo/blob/master/Banner.png)
 ### Nicolás E. Rozo E. - @NikoRozo 👋
 
 - 🔭 Actualmente estoy Trabajando como Arquitecto Empresarial de Software.
