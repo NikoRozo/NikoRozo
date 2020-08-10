@@ -1,3 +1,4 @@
+![banner](Banner.png)
 ### Nicolás E. Rozo E. - @NikoRozo 👋
 
 - 🔭 Actualmente estoy Trabajando como Arquitecto Empresarial de Software.
